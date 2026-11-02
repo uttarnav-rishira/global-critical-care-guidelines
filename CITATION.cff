@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite the repository release and access date."
+title: "Global Critical Care Guidelines Research Database"
+type: dataset
+date-released: "2026-11-03"
+version: "0.1.0"
+license: MIT
