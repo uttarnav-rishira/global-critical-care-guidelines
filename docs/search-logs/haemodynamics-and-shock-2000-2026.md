@@ -63,3 +63,10 @@ Candidate rows for this domain are maintained in `data/screening/haemodynamics-a
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- 2014 ESICM consensus on circulatory shock and haemodynamic monitoring: DOI 10.1007/s00134-014-3525-z; primary publisher page identified. Verify exact formal title, full-text access, licence and document type before inclusion.
+- 2025 ESICM Guidelines on Circulatory Shock and Haemodynamic Monitoring in Adult ICU Patients: DOI 10.1007/s00134-025-08137-z; PMID 41236566; Intensive Care Med. 2025;51:1971-2012. PubMed identifies a practice guideline for adult critically ill patients; international panel, PICO questions, GRADE and 50 statements are reported. ESICM identifies online-first free access; UCL repository provides an author-accepted manuscript. Confirm reuse terms for the repository copy.
+- NSW Agency for Clinical Innovation cardiogenic-shock guide (2026) remains a candidate pending inspection of the actual document, methodology and formal status.
+
+The 2025 ESICM guideline is a major current candidate. Keep the 2014 consensus as a separate historical record if it meets formal eligibility; establish the relationship from the primary texts, not assumption.
