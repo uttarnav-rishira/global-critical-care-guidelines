@@ -59,3 +59,8 @@ Ethics statements must contain formal clinical or institutional recommendations 
 ## Historical candidate expansion — 2026-11-04
 
 - ACCM consensus statement on end-of-life care in the ICU (2008): DOI 10.1097/CCM.0B013E3181659096; PMID 18431285. Primary bibliographic record confirms an ICU consensus statement with recommendations on dying, family communication and withholding/withdrawing life-sustaining treatment. Full text, adult scope and licence remain to be verified; link any erratum to the original.
+
+## Australasian historical candidates — 2026-11-04
+
+- ANZICS Statement on Withholding and Withdrawing Treatment (2003): the official 2014 successor statement identifies this as the first two-page edition. The original 2003 document has not yet been retrieved; it remains a predecessor candidate, not a verified full-text record.
+- ANZICS Statement on Care and Decision-Making at the End of Life for the Critically Ill, Edition 1.0 (2014): official ANZICS PDF located; publicly readable, with copyright/reproduction permission required. The document states that it was promulgated in 2014 and builds on the 2003 statement. Confirm adult scope and whether it formally supersedes the earlier document before assigning status.
