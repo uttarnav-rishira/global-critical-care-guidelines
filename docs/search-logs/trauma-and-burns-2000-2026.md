@@ -55,3 +55,8 @@ For each source, record date searched, exact query/filter, result count, export/
 - Severe TBI guideline remains a separate neurocritical-care candidate; use a canonical record with trauma/neurocritical cross-tags rather than duplicating it.
 
 The burn-shock guideline is a strong eligible candidate pending licence and independent review.
+
+## Historical source audit — 2026-11-04
+
+- European guideline on management of bleeding following major trauma (2007): DOI 10.1186/cc5686; PMID 17298665; PMCID PMC2151863. Public PMC full text; CC BY 2.0. Evidence review, nominal-group consensus and GRADE methods described. An erratum (Crit Care. 2007;11:414) must be linked, not counted as a new guideline.
+- This 2007 edition is a candidate predecessor in the subsequent European major-trauma bleeding guideline series. Audit later editions and recommendation changes separately.
