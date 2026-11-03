@@ -69,3 +69,9 @@ This is an initial domain search protocol, not an exhaustive search or completed
 - SCCM PADIS focused update (2025): DOI 10.1097/CCM.0000000000006574; PMID 39982143; Crit Care Med. 2025;53(3):e711-e727; online 2025-02-21. SCCM explicitly describes it as an update/expansion of the 2018 adult ICU guideline. Record separately and map the exact recommendations updated; verify full text and reuse licence.
 
 The 2018 and 2025 records should be linked as an original guideline and focused update, not collapsed into one record.
+
+## Historical candidate expansion — 2026-11-04
+
+- 2002 guideline for sustained use of sedatives and analgesics in critically ill adults: PMID 11826570; PubMed classifies the AJHP publication as a guideline and identifies a free-article route. A parallel Critical Care Medicine publication exists; confirm canonical metadata and avoid double-counting.
+- 2002 guideline for sustained neuromuscular blockade in adult critically ill patients: PMID 11826571; AJHP publisher page located, but full freely accessible text not established. A parallel Critical Care Medicine publication exists (PMID 11902255); do not treat parallel publications as distinct guidelines.
+- These early documents are important historical baseline candidates preceding PAD/PADIS. Verify full text, exact DOI, licence, recommendations and supersession history before inclusion.
