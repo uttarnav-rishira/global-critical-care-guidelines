@@ -70,3 +70,8 @@ This is an initial domain search protocol, not an exhaustive search or completed
 - NSW Agency for Clinical Innovation cardiogenic-shock guide (2026) remains a candidate pending inspection of the actual document, methodology and formal status.
 
 The 2025 ESICM guideline is a major current candidate. Keep the 2014 consensus as a separate historical record if it meets formal eligibility; establish the relationship from the primary texts, not assumption.
+
+## Historical candidate expansion — 2026-11-04
+
+- ACCM consensus recommendations on diagnosis and management of corticosteroid insufficiency in critically ill adults (2008): DOI 10.1097/CCM.0b013e31817603ba; PMID 18496365. Adult ICU task-force consensus confirmed bibliographically. Full text and licence not yet established.
+- This is a distinct historical consensus document from later sepsis corticosteroid recommendations and should be assessed on its own eligibility and status.
