@@ -48,3 +48,10 @@ For each source, record date searched, exact query/filter, result count, export/
 
 ## Completeness statement
 **Preliminary discovery only.** Exact result counts, deduplication and screening numbers, full-text eligibility and independent review remain outstanding.
+
+## First-pass source checks — 2026-11-03
+
+- American Burn Association Clinical Practice Guideline on Burn Shock Resuscitation (2024): DOI 10.1093/jbcr/irad125; PMID 38051821. PubMed identifies a free article and practice guideline. It explicitly addresses adults with burns ≥20% TBSA during the first 48 hours, using PICO questions and systematic evidence review. Verify licence and current status.
+- Severe TBI guideline remains a separate neurocritical-care candidate; use a canonical record with trauma/neurocritical cross-tags rather than duplicating it.
+
+The burn-shock guideline is a strong eligible candidate pending licence and independent review.
