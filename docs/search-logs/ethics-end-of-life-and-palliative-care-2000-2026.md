@@ -55,3 +55,7 @@ For each source, record date searched, exact query/filter, result count, export/
 - The 2008 SCCM end-of-life consensus candidate remains to be verified against its primary source, full text, and current/historical status.
 
 Ethics statements must contain formal clinical or institutional recommendations and direct ICU scope; narrative ethics discussion alone is insufficient.
+
+## Historical candidate expansion — 2026-11-04
+
+- ACCM consensus statement on end-of-life care in the ICU (2008): DOI 10.1097/CCM.0B013E3181659096; PMID 18431285. Primary bibliographic record confirms an ICU consensus statement with recommendations on dying, family communication and withholding/withdrawing life-sustaining treatment. Full text, adult scope and licence remain to be verified; link any erratum to the original.
