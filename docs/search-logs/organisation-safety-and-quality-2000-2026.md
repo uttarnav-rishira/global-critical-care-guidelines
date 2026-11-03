@@ -61,3 +61,7 @@ Do not count service standards, accreditation criteria or local pathways as CPGs
 
 - SCCM 2003 recommendations on critical-care services and personnel (three levels of care): DOI 10.1097/01.CCM.0000094227.89800.93; PMID 14605541. This concerns service configuration/personnel rather than individual patient clinical recommendations and PubMed classifies it as a review. Keep outside the main CPG catalogue; consider a separate service-standards collection.
 - SCCM 2007 family support guideline for patient-centred ICUs: DOI 10.1097/01.CCM.0000254067.14607.EB; PMID 17205007. PubMed classifies it as a practice guideline. It is a candidate for organisational/family-centred ICU guidance; full text, licence and age/scope checks remain outstanding.
+
+## Historical source audit — 2026-11-04
+
+- ESICM Task Force statement on prospectively defined indicators to improve safety and quality of care for critically ill patients (2012): DOI 10.1007/s00134-011-2462-3; PMID 22278594. Modified Delphi consensus with 18 experts and nine indicators reported. Confirm formal document type under GCCGRD criteria, adult applicability and public full-text access before inclusion. A correction/comment (PMID 22878349) should be linked to the primary record.
