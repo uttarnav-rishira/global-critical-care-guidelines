@@ -49,3 +49,10 @@ For each source, record date searched, exact query/filter, result count, export/
 
 ## Completeness statement
 **Preliminary discovery only.** Exact result counts, deduplication and screening numbers, full-text eligibility and independent review remain outstanding.
+
+## First-pass source checks — 2026-11-03
+
+- GPICS Version 3 (ICS/FICM): official ICS page confirms adult ICU service-provision scope and describes minimum standards and quality recommendations. It lists earlier editions in 2015, 2019 and 2022. This is best classified as a service standards/specification resource, not automatically as a clinical practice guideline for individual patient care. Consider a separate standards collection if the database scope is expanded.
+- Continue to search formal ICU staffing, infection prevention, quality indicator, family-centred care and organisational guidance from SCCM, WHO, CDC, FICM/ICS, ANZICS and national health authorities.
+
+Do not count service standards, accreditation criteria or local pathways as CPGs unless the inclusion criteria are deliberately broadened and a separate document type is created.
