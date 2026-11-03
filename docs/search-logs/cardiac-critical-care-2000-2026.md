@@ -63,3 +63,10 @@ Candidate rows for this domain are maintained in `data/screening/cardiac-critica
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- ERC Adult Advanced Life Support (2021): DOI 10.1016/j.resuscitation.2021.02.010; PMID 33773825. Primary bibliographic record and full-text PDF located; verify official PDF provenance, licence and later updates.
+- ERC/ESICM Post-resuscitation Care (2021): DOI 10.1007/s00134-021-06368-4; PMID 33765189; PMCID PMC7993077. Joint adult ICU guideline; verify licence and current status.
+- AHA 2020 adult basic and advanced life support guideline: DOI 10.1161/CIR.0000000000000916; PMID 33081529. Primary bibliographic record confirmed; obtain and check full text, licence and subsequent focused updates.
+
+The candidate register flags the repeated ERC ALS entry as a duplicate of the original candidate; do not create two catalogue records for the same guideline edition.
