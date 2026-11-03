@@ -48,3 +48,10 @@ For each source, record date searched, exact query/filter, result count, export/
 
 ## Completeness statement
 **Preliminary discovery only.** Exact result counts, deduplication and screening numbers, full-text eligibility and independent review remain outstanding.
+
+## First-pass source checks — 2026-11-03
+
+- ATS/AGS policy statement on medical treatment decisions for unrepresented patients in the ICU (2020): DOI 10.1164/rccm.202003-0512ST; PMID 32412853; PMCID PMC7233335. PubMed classifies it as a practice guideline; it provides formal recommendations for adult life-sustaining treatment decisions in the ICU and describes an iterative consensus process. Public PMC full text located; verify the licence statement.
+- The 2008 SCCM end-of-life consensus candidate remains to be verified against its primary source, full text, and current/historical status.
+
+Ethics statements must contain formal clinical or institutional recommendations and direct ICU scope; narrative ethics discussion alone is insufficient.
