@@ -63,3 +63,9 @@ Candidate rows for this domain are maintained in `data/screening/sedation-analge
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- SCCM PADIS guideline (2018): DOI 10.1097/CCM.0000000000003299; PMID 30113379. Adult ICU guideline; PubMed identifies a free article and SCCM hosts the official recommendations. It updated the 2013 PAD guideline.
+- SCCM PADIS focused update (2025): DOI 10.1097/CCM.0000000000006574; PMID 39982143; Crit Care Med. 2025;53(3):e711-e727; online 2025-02-21. SCCM explicitly describes it as an update/expansion of the 2018 adult ICU guideline. Record separately and map the exact recommendations updated; verify full text and reuse licence.
+
+The 2018 and 2025 records should be linked as an original guideline and focused update, not collapsed into one record.
