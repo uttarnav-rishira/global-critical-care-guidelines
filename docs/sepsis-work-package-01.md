@@ -59,3 +59,12 @@ The 2001 definitions conference publication and Sepsis-3 are formal consensus-de
 ## No clinical decision support
 
 GCCGRD is a research index. It does not provide clinical recommendations, replace local protocols, or establish the current standard of care.
+
+## Regional and national search extension (3 November 2026)
+
+A first targeted regional search has been documented in `docs/search-logs/sepsis-regional-2000-2026.md`. The screening register now includes candidate entries for NICE NG51 and NG253, the German S3 2025 guideline, J-SSCG2024, the 2024 Korean adult sepsis guideline, WHO 2024 guidance, and the 2026 British Columbia adult guideline. The Australian Sepsis Clinical Care Standard is retained as a transparent exclusion from the CPG dataset because it is a quality standard rather than detailed clinical management guidance.
+
+The source registry has been expanded with NICE, AWMF/German Sepsis Society, JSICM, JAAM, Korean critical-care/sepsis bodies, Health Quality BC, ACSQHC and WHO entries.
+
+These are discovery candidates, not final inclusions. Adult age scope, formal issuing authority, full-text access, licence, methodology, and independent second review remain to be verified. NICE NG253 begins at age 16 and must not be automatically treated as adult-only under GCCGRD's 18+ rule. The German and Japanese documents include mixed-age scope considerations. The WHO full guideline and BC PDF require direct full-document inspection.
+
