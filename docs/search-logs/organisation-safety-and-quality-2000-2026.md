@@ -56,3 +56,8 @@ For each source, record date searched, exact query/filter, result count, export/
 - Continue to search formal ICU staffing, infection prevention, quality indicator, family-centred care and organisational guidance from SCCM, WHO, CDC, FICM/ICS, ANZICS and national health authorities.
 
 Do not count service standards, accreditation criteria or local pathways as CPGs unless the inclusion criteria are deliberately broadened and a separate document type is created.
+
+## Historical candidate expansion — 2026-11-04
+
+- SCCM 2003 recommendations on critical-care services and personnel (three levels of care): DOI 10.1097/01.CCM.0000094227.89800.93; PMID 14605541. This concerns service configuration/personnel rather than individual patient clinical recommendations and PubMed classifies it as a review. Keep outside the main CPG catalogue; consider a separate service-standards collection.
+- SCCM 2007 family support guideline for patient-centred ICUs: DOI 10.1097/01.CCM.0000254067.14607.EB; PMID 17205007. PubMed classifies it as a practice guideline. It is a candidate for organisational/family-centred ICU guidance; full text, licence and age/scope checks remain outstanding.
