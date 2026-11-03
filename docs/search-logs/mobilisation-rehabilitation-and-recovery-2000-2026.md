@@ -63,3 +63,10 @@ Candidate rows for this domain are maintained in `data/screening/mobilisation-re
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- ATS/CHEST guideline on liberation from mechanical ventilation in critically ill adults (2017): DOI 10.1164/rccm.201610-2075ST; PMID 27762595. Primary publication confirms adult ICU scope and GRADE methodology. Four conditional recommendations include protocolised rehabilitation directed toward early mobilisation and ventilator liberation. Full-text publisher page located; licence and reuse terms need checking.
+- A separate executive summary exists (DOI 10.1164/rccm.201610-2076ST; PMID 27762608). Treat it as a companion publication, not a separate guideline edition.
+- This domain overlaps with sedation/PADIS and airway/ventilator liberation. Use one canonical guideline record and multiple tags where appropriate; do not duplicate the ATS/CHEST guideline across domains.
+
+The recovery search must continue to include post-intensive-care syndrome, ICU follow-up, long-term physical/cognitive recovery and rehabilitation guidance beyond ventilator liberation.
