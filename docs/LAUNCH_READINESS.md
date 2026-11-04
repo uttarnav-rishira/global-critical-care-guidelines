@@ -22,9 +22,9 @@ The project is suitable for a clearly labelled **early public beta as a research
 
 ## Outstanding checks / limitations
 
-- [ ] Confirm the GitHub Pages deployment has completed successfully.
-- [ ] Open the public Pages URL in a normal browser and test desktop and mobile layouts.
-- [ ] Test live search, filters, external links and the dataset load in the deployed site.
+- [x] Confirm the GitHub Pages deployment completed successfully: workflow run [41772040032](https://github.com/uttarnav-rishira/global-critical-care-guidelines/actions/runs/41772040032) finished with conclusion `success` for commit `92de5433d9b05f474ad5dc3c997b6d5a4d45f102`.
+- [ ] Human browser smoke test remains outstanding: open the public Pages URL on desktop and mobile. The deployment workflow succeeded, but this environment's browser could not independently load the GitHub Pages host, so visual/public reachability is not claimed as independently confirmed.
+- [ ] Test live search, filters, external links and dataset loading in the deployed site from a normal browser.
 - [ ] Complete the primary full-text accessibility and licence assessment for the seed record.
 - [ ] Complete independent second review of the seed record before calling it fully verified.
 - [ ] Continue systematic searching, screening, deduplication and geographic/domain gap assessment.
