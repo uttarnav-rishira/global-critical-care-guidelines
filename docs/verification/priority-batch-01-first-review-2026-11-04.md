@@ -90,3 +90,35 @@ Do not assume all five are adult-only. Check each article's stated target popula
 6. Only then create main-catalogue records for eligible documents. Keep holds and rejected candidates in the screening register with reasons.
 
 **No records in this batch have been promoted to `data/guidelines.csv`.**
+
+## Addendum — resolution of initial holds (4 November 2026)
+
+A follow-up source check was completed after the first-pass review. This resolves the *catalogue eligibility disposition* for the four full-text holds and refines the age-scope assessment for the two Indian position statements. It does not create an independent second review.
+
+### Four full-text holds
+
+| ID | Final first-review disposition | Evidence and rationale |
+|---|---|---|
+| DOM-056 | Exclude from public catalogue at present | ESICM-linked GuidelineCentral record reports full text is not freely available; UCL accepted manuscript states access restricted until 15 November 2026. The public ESICM recommendations/announcement page is not the complete guideline. Reconsider only if a complete, legal, logged-out copy becomes available. |
+| DOM-058 | Exclude from public catalogue at present | HAL repository full-text route could not be accessed in this pass; no alternative complete logged-out text was confirmed. Bibliographic eligibility alone does not satisfy the public-full-text criterion. Reconsider if access is established. |
+| DOM-059 | Exclude from public catalogue at present | Springer primary page labels the article subscription content and offers institutional login/purchase; complete public full text was not established. Retain in screening history; do not catalogue on abstract/preview alone. |
+| DOM-068 | Exclude from public catalogue at present | SCCM summary page has recommendations and a visual abstract, but its “Read Full Guideline” route leads to LWW subscription/payment access. Summary/recommendation webpage is not the complete guideline. Reconsider only if full text becomes publicly readable. |
+
+These are exclusions under the catalogue's public full-text eligibility rule, not judgements that the documents lack scientific value. Their screening records remain for auditability and possible future re-evaluation.
+
+### Indian adult-scope clarification
+
+- **DOM-065 severe dengue:** full text reports a 14-intensivist task force, evidence search and 70% consensus threshold. Adult-relevant recommendations (including pregnancy and older adults) are present, but the overall target population is not explicitly adult-only and there is no separately titled paediatric section. Retain as a candidate pending Reviewer 2's judgement that adult recommendations are sufficiently separable.
+- **DOM-066 severe malaria:** full text explicitly covers adults and children; adult-specific treatment recommendations are identifiable (including artesunate treatment in adults and pregnancy), while other ICU practice statements are shared. Retain as a candidate pending Reviewer 2's confirmation that the adult recommendation subset is sufficiently separable. Do not infer Delphi where the article does not report it.
+
+### Revised batch status
+
+- 4 records excluded from public catalogue for lack of confirmed complete publicly readable full text (DOM-056, 058, 059, 068).
+- 12 records remain candidates for independent second review (DOM-057, 060–067, 069–071).
+- Of those 12, public text and reuse restrictions/licence are recorded individually; some licence and adult-scope questions remain open and must be closed by Reviewer 2.
+- No records have been promoted to `data/guidelines.csv`.
+- All 16 records remain `second_review=pending`.
+
+## Independent review dispatch
+
+The repository owner must nominate a second reviewer with relevant critical-care guideline appraisal experience and a distinct GitHub account. A request issue is being opened with the full batch list and review instructions. Until a reviewer identity is supplied, no named reviewer can be assigned and no independent review can truthfully be marked as commenced or completed.
