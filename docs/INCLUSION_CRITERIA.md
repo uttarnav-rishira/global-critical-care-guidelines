@@ -81,3 +81,10 @@ For each record, Reviewer 1 enters and checks the record. Reviewer 2 independent
 5. edition and supersession status.
 
 Until the second review is complete, set `review_status` to `pending_second_review`. A pending record must not be presented as fully verified.
+
+
+## Full-text access versus permission to redistribute
+
+The open-access eligibility criterion concerns public readability of the complete guideline. It does **not** itself grant permission to copy or redistribute the PDF. The main catalogue may link to a lawfully readable full text even when the PDF cannot be mirrored.
+
+Only place a PDF in `sources/open-access/` when its exact licence or explicit written permission permits redistribution in this public repository. Record the licence/permission, attribution requirements, original URL, access date, and version in `sources/open-access/manifest.csv`. Do not upload paywalled, restricted, copyright-restricted, or rights-unclear files. See `sources/open-access/README.md` and the curation SOP for operational requirements.
