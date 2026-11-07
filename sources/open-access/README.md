@@ -20,7 +20,7 @@ Create subfolders by issuing organisation only when useful. Use stable filenames
 
 ## Inventory
 
-See [manifest.csv](manifest.csv). At the 2026-11-06 rights assessment, eight candidates were provisionally identified as CC BY 4.0 candidates for possible storage (DOM-061, DOM-062, DOM-063, DOM-064, DOM-065, DOM-066, DOM-067 and DOM-070). No PDF binaries have yet been committed. Each exact PDF manifestation, edition, attribution requirements and third-party material exclusions must be checked before upload. The manifest remains header-only until the binary files are present. See [the rights assessment](../../docs/verification/priority-batch-01-redistribution-rights-2026-11-06.md).
+See [manifest.csv](manifest.csv). At the 2026-11-06 rights assessment, eight PMCID-backed candidates were identified for exact-version licence verification (DOM-061, DOM-062, DOM-063, DOM-064, DOM-065, DOM-066, DOM-067 and DOM-070); their licences must be checked individually from the current PMC Cloud metadata and article credit lines before any PDF is stored. No PDF binaries have yet been committed. Each exact PDF manifestation, edition, attribution requirements and third-party material exclusions must be checked before upload. The manifest remains header-only until the binary files are present. See [the rights assessment](../../docs/verification/priority-batch-01-redistribution-rights-2026-11-06.md).
 
 ## Important distinction
 
