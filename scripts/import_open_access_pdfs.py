@@ -35,7 +35,7 @@ CANDIDATES = [
  {"id":"DOM-070","pmcid":"PMC12883282","doi":"10.1111/aas.70201","year":"2026","issuer":"Saudi Critical Care Society; Scandinavian Society of Anaesthesiology and Intensive Care Medicine; endorsed by Kuwait Anesthesia and Critical Care Society","title":"Recommendations for Stress Ulcer Prophylaxis in Critically Ill Adults: A Contextualized Clinical Practice Guideline","source":"https://onlinelibrary.wiley.com/doi/10.1111/aas.70201"},
 ]
 FIELDS=["guideline_id","pdf_path","doi","issuing_organisations","publication_year","version_edition","original_source_url","access_date","licence_name_version","licence_url","attribution_copyright_notice","redistribution_basis","rights_evidence_url","notes","sha256"]
-SUSPICIOUS=re.compile(r"reproduced\\s+with\\s+permission|adapted\\s+from|courtesy\\s+of|used\\s+with\\s+permission|copyright\\s*[©(]|all rights reserved|permission from|not covered by (?:the )?(?:article )?licen[cs]e",re.I)
+SUSPICIOUS=re.compile(r"reproduced\s+with\s+permission|adapted\s+from|courtesy\s+of|used\s+with\s+permission|permission from|not covered by (?:the )?(?:article )?licen[cs]e",re.I)
 
 def get(url):
  r=requests.get(url,timeout=90,headers={"User-Agent":"GCCGRD research repository; NCBI PMC OA Cloud Service"})
