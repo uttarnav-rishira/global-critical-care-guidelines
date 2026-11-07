@@ -38,3 +38,12 @@ No PDF has been added and the manifest remains header-only. The available GitHub
 - DOM-070: https://pmc.ncbi.nlm.nih.gov/articles/PMC12883282/
 - DOM-071: https://onlinelibrary.wiley.com/doi/10.1111/aas.14470 and https://researchportal.helsinki.fi/en/publications/ketamine-analgo-sedation-for-mechanically-ventilated-critically-i/
 - DOM-060: https://www.scienceopen.com/document?vid=185212ab-cc28-41b1-b8b6-cf4593d7d33c
+
+
+## Current retrieval automation
+
+- Importer: [`scripts/import_open_access_pdfs.py`](../../scripts/import_open_access_pdfs.py)
+- Manual workflow: [`.github/workflows/import-open-access-pdfs.yml`](../../.github/workflows/import-open-access-pdfs.yml)
+- The workflow uses the current NCBI PMC Article Datasets Cloud Service structure (metadata JSON per article version; XML and PDF objects), not the retired legacy FTP layout.
+- The default run accepts only commercial-redistribution CC BY licences. The optional non-commercial setting permits CC BY-NC and CC BY-NC-ND unchanged files only; do not select it unless the repository's use and redistribution are genuinely non-commercial.
+- No action run has yet been triggered from this session. The manifest remains empty until the workflow actually commits PDF binaries and checksums.
