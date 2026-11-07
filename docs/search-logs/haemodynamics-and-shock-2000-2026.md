@@ -63,3 +63,20 @@ Candidate rows for this domain are maintained in `data/screening/haemodynamics-a
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- 2014 ESICM consensus on circulatory shock and haemodynamic monitoring: DOI 10.1007/s00134-014-3525-z; primary publisher page identified. Verify exact formal title, full-text access, licence and document type before inclusion.
+- 2025 ESICM Guidelines on Circulatory Shock and Haemodynamic Monitoring in Adult ICU Patients: DOI 10.1007/s00134-025-08137-z; PMID 41236566; Intensive Care Med. 2025;51:1971-2012. PubMed identifies a practice guideline for adult critically ill patients; international panel, PICO questions, GRADE and 50 statements are reported. ESICM identifies online-first free access; UCL repository provides an author-accepted manuscript. Confirm reuse terms for the repository copy.
+- NSW Agency for Clinical Innovation cardiogenic-shock guide (2026) remains a candidate pending inspection of the actual document, methodology and formal status.
+
+The 2025 ESICM guideline is a major current candidate. Keep the 2014 consensus as a separate historical record if it meets formal eligibility; establish the relationship from the primary texts, not assumption.
+
+## Historical candidate expansion — 2026-11-04
+
+- ACCM consensus recommendations on diagnosis and management of corticosteroid insufficiency in critically ill adults (2008): DOI 10.1097/CCM.0b013e31817603ba; PMID 18496365. Adult ICU task-force consensus confirmed bibliographically. Full text and licence not yet established.
+- This is a distinct historical consensus document from later sepsis corticosteroid recommendations and should be assessed on its own eligibility and status.
+
+## Historical source audit — 2026-11-04
+
+- International consensus conference on hemodynamic monitoring in shock (2007): DOI 10.1007/s00134-007-0531-4; PMID 17285286. A public PDF copy hosted by SRLF was located; verify document identity, completeness and reuse terms. This is a predecessor to the ESICM 2014 consensus, not a duplicate.
+- ESICM Task Force consensus on circulatory shock and hemodynamic monitoring (2014): DOI 10.1007/s00134-014-3525-z; PMID 25392034; PMCID PMC4239778. Public PMC full text identified with CC BY-NC licence. It updates the 2007 consensus; retain both as separate historical editions and link the lineage.

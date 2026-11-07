@@ -63,3 +63,9 @@ Candidate rows for this domain are maintained in `data/screening/haematology-and
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- AABB International RBC Transfusion Guidelines (2023): DOI 10.1001/jama.2023.12914; PMID 37824153. Primary publication and GRADE-based methodology confirmed. It addresses adults and children; adult recommendations principally address haemodynamically stable hospitalised adults. The document's direct applicability to critically ill adults is not sufficiently explicit from the primary abstract, so it remains a borderline candidate pending full-text review. Do not include solely because transfusion is common in ICU.
+- The broader domain search remains open for ICU-specific transfusion, platelet, plasma, anticoagulation, DIC and VTE guidelines from AABB, ISTH, BSH, ASH, CHEST and critical-care societies.
+
+No haematology/transfusion candidate has been promoted to the master catalogue.

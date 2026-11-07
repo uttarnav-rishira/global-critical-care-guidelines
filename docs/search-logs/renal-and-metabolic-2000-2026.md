@@ -63,3 +63,13 @@ Candidate rows for this domain are maintained in `data/screening/renal-and-metab
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- KDIGO AKI guideline (2012): DOI 10.1038/kisup.2012.1; official KDIGO guideline page and full-text PDF identified. It covers adult and paediatric AKI; confirm adult recommendations are separable. The 2026 AKI/AKD guideline was still explicitly a public-review draft on the search date and must not be represented as a final adopted guideline.
+- International consensus report on hyperglycaemic crises in adults (2024): DOI 10.2337/dci24-0032; PMID 39052901; PMCID PMC11272983. Primary source and public full text identified. It is retained as a borderline candidate pending a direct critical-care relevance assessment; do not include solely because severe DKA/HHS can require ICU care.
+
+The renal domain requires a further search for ADQI consensus statements, RRT/CRRT guidance, electrolyte emergencies, and formally adopted KDIGO updates. Drafts are excluded from the main guideline catalogue until final adoption/publication.
+
+## Historical source audit — 2026-11-04
+
+- ATS/ERS/ESICM/SCCM/SRLF consensus statement on prevention and management of acute renal failure in the ICU (2010): DOI 10.1164/rccm.200711-1664ST; PMID 20460549. Primary ATS publication identified. Explicit ICU scope and consensus recommendations include prevention and renal replacement therapy. Full-text public-access and licence status still require confirmation.

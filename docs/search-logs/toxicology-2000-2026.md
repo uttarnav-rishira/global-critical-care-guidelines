@@ -48,3 +48,11 @@ For each source, record date searched, exact query/filter, result count, export/
 
 ## Completeness statement
 **Preliminary discovery only.** Exact result counts, deduplication and screening numbers, full-text eligibility and independent review remain outstanding.
+
+## First-pass source checks — 2026-11-03
+
+- EXTRIP Workgroup recommendations for extracorporeal treatment in chloroquine, hydroxychloroquine and quinine poisoning (2020): DOI 10.1681/ASN.2020050564; PMID 32963091. PubMed identifies a free PMC article. This is one toxin-specific publication; each EXTRIP toxin recommendation should be screened and recorded separately rather than represented by one umbrella EXTRIP record.
+- A 2024 review of extracorporeal treatment in poisoning is not itself a guideline and should not be counted as a recommendation document.
+- Continue toxin-by-toxin searches for lithium, metformin, salicylate, toxic alcohols, valproate, theophylline and other substances. Distinguish EXTRIP recommendations from AACT/EAPCCT position statements.
+
+Full text and licence checks remain outstanding; verify whether recommendations are explicitly adult or mixed-age before inclusion.
