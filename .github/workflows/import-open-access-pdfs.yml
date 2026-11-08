@@ -1,6 +1,11 @@
 name: Import licensed open-access guideline PDFs
 
 on:
+  push:
+    branches:
+      - research/priority-domain-verification-01
+    paths:
+      - .github/workflows/import-open-access-pdfs.yml
   workflow_dispatch:
     inputs:
       allow_noncommercial:
@@ -17,6 +22,7 @@ permissions:
 
 jobs:
   import-pdfs:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[run-pdf-import]')
     runs-on: ubuntu-latest
     steps:
       - name: Check out research branch
@@ -33,7 +39,8 @@ jobs:
       - name: Retrieve exact PMC publisher PDFs and check licence and credit text
         run: |
           ARGS=""
-          if [ "${{ inputs.allow_noncommercial }}" = "yes" ]; then ARGS="--allow-noncommercial"; fi
+          ALLOW_NONCOMMERCIAL="${{ github.event_name == 'push' && 'yes' || inputs.allow_noncommercial }}"
+          if [ "$ALLOW_NONCOMMERCIAL" = "yes" ]; then ARGS="--allow-noncommercial"; fi
           python scripts/import_open_access_pdfs.py $ARGS
       - name: Commit PDFs and manifest
         if: success()
