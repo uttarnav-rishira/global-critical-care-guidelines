@@ -47,3 +47,31 @@ No PDF has been added and the manifest remains header-only. The available GitHub
 - The workflow uses the current NCBI PMC Article Datasets Cloud Service structure (metadata JSON per article version; XML and PDF objects), not the retired legacy FTP layout.
 - The default run accepts only commercial-redistribution CC BY licences. The optional non-commercial setting permits CC BY-NC and CC BY-NC-ND unchanged files only; do not select it unless the repository's use and redistribution are genuinely non-commercial.
 - No action run has yet been triggered from this session. The manifest remains empty until the workflow actually commits PDF binaries and checksums.
+
+
+## Import execution result — 2026-11-08
+
+**GitHub Actions run:** https://github.com/uttarnav-rishira/global-critical-care-guidelines/actions/runs/42516108396  
+**Result:** success. Both the exact-PDF retrieval/rights screening step and the binary commit step completed successfully.  
+**Research branch commit:** `28f474dc07919a438e722d95ac54de8dd8b37a75`.
+
+Eight publisher-version PDFs were committed under `sources/open-access/`:
+
+| Candidate | DOI | Licence recorded | PDF pages |
+|---|---|---|---:|
+| DOM-061 | 10.1186/s40560-025-00776-0 | CC BY 4.0 | 61 |
+| DOM-062 | 10.1186/s40560-023-00697-w | CC BY 4.0 | 23 |
+| DOM-063 | 10.5005/jp-journals-10071-24682 | CC BY-NC 4.0 | 16 |
+| DOM-064 | 10.5005/jp-journals-10071-24747 | CC BY-NC 4.0 | 22 |
+| DOM-065 | 10.5005/jp-journals-10071-24748 | CC BY-NC 4.0 | 17 |
+| DOM-066 | 10.5005/jp-journals-10071-24765 | CC BY-NC 4.0 | 8 |
+| DOM-067 | 10.5005/jp-journals-10071-24783 | CC BY-NC 4.0 | 25 |
+| DOM-070 | 10.1111/aas.70201 | CC BY 4.0 | 22 |
+
+The importer matched each DOI against PMC Cloud publisher-version metadata, excluded author manuscripts, retrieved PDF and XML, scanned XML figure/table/supplementary credit text and extracted PDF text for obvious third-party permission/reuse exclusion wording, and wrote SHA-256 checksums into the manifest. No obvious exclusion was detected by those automated scans.
+
+**Important limitation:** this is not a visual, human review of every embedded figure, table, image or scanned credit line. Before treating each PDF as fully cleared for redistribution, a person should visually inspect the PDF's figure/table legends and credits, and compare with the publisher's licence statement. The automation can miss image-only or unusually worded exclusions. Keep the PDFs unchanged, preserve attribution, and comply with the NC restrictions for DOM-063–DOM-067.
+
+The four non-PMC candidates DOM-057, DOM-060, DOM-069 and DOM-071 were not imported. They remain not cleared on the current evidence.
+
+The eight records remain candidates awaiting independent scientific eligibility review. PDF storage/rights screening does not promote them into `data/guidelines.csv`.
