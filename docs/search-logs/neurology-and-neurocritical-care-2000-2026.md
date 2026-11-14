@@ -63,3 +63,9 @@ Candidate rows for this domain are maintained in `data/screening/neurology-and-n
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- Brain Trauma Foundation Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: DOI 10.1227/NEU.0000000000001432; PMID 27654000. Primary publication and official BTF complete-guideline page/PDF identified. The guideline includes severe-TBI recommendations for ICP/CPP monitoring, hyperosmolar therapy, sedation and other ICU interventions. Carefully verify the age threshold and whether adult (18+) recommendations are separable; some age-specific thresholds include adolescents.
+- AHA/ASA spontaneous intracerebral haemorrhage guideline (2022): DOI 10.1161/STR.0000000000000407; PMID 35579034. PubMed identifies it as a practice guideline and free article; official AHA journal page/PDF located. It includes neurocritical-care recommendations on hydrocephalus, ICP monitoring and anticoagulant reversal. The AHA PDF restricts redistribution/modification without permission; record public access separately from reuse rights.
+
+Both remain candidates pending adult-scope review, licence verification and independent second review. Keep TBI and spontaneous ICH as distinct guideline families; cross-tag relevant trauma and neurocritical-care domains without duplicating records.

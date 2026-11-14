@@ -63,3 +63,9 @@ Candidate rows for this domain are maintained in `data/screening/ards-and-respir
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- 2017 ATS/ESICM/SCCM adult ARDS ventilation guideline: DOI 10.1164/rccm.201703-0548ST; PMID 28459336. PubMed identifies it as a free article and GRADE-based adult CPG; the official ATS PDF is located. Oxford Academic records a June 2017 correction (DOI 10.1164/rccm.19511erratum), which should be linked to the 2017 edition rather than counted as a separate guideline.
+- 2024 ATS adult ARDS focused update: DOI 10.1164/rccm.202311-2011ST; PMID 38032683; PMCID PMC10870893. PICO/GRADE methodology and public PMC full text confirmed. ATS copyright/reprint restrictions mean public readability is not a permissive redistribution licence.
+
+Both are eligible candidates, not fully verified records. The 2024 update is not a wholesale replacement of the 2017 guideline; retain both editions and link the focused update.

@@ -63,3 +63,14 @@ Candidate rows for this domain are maintained in `data/screening/nutrition-and-g
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+- SCCM/ASPEN adult critical-care nutrition guideline (2016): DOI 10.1097/CCM.0000000000001525; PMID 26771786. Wiley labels the article Free Access. A corrigendum was published in JPEN 2016;40(8):1200 and should be linked to this edition. Reuse licence still needs checking.
+- ESPEN ICU nutrition guideline (2019): DOI 10.1016/j.clnu.2018.08.037; PMID 30348463. Official ESPEN full-text PDF located.
+- ESPEN practical and partially revised ICU nutrition guideline (2023): DOI 10.1016/j.clnu.2023.07.011; PMID 37517372. This is explicitly a shortened and partially revised version of the 2019 guideline. An accepted manuscript is available from the University of Southampton repository under CC BY-NC-ND terms. Record the 2019 and 2023 publications separately and compare exact recommendation changes; do not treat the practical summary as wholly independent guidance.
+
+Full text and reuse checks remain necessary before any promotion.
+
+## Historical source audit — 2026-11-04
+
+- Canadian clinical practice guidelines for nutrition support in mechanically ventilated, critically ill adult patients (2003): DOI 10.1177/0148607103027005355; PMID 12971736. Primary publication record identifies an adult ICU guideline developed by the Canadian Critical Care Clinical Practice Guidelines Committee with several professional bodies. Publisher page located, but full text availability is not established from the abstract. Do not include in the verified catalogue unless complete full text is publicly readable.

@@ -1,0 +1,56 @@
+name: Import licensed open-access guideline PDFs
+
+on:
+  push:
+    branches:
+      - research/priority-domain-verification-01
+    paths:
+      - .github/workflows/import-open-access-pdfs.yml
+  workflow_dispatch:
+    inputs:
+      allow_noncommercial:
+        description: "Allow unchanged CC BY-NC / CC BY-NC-ND PDFs for non-commercial redistribution"
+        required: true
+        type: choice
+        options:
+          - "no"
+          - "yes"
+        default: "no"
+
+permissions:
+  contents: write
+
+jobs:
+  import-pdfs:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[run-pdf-import]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out research branch
+        uses: actions/checkout@v4
+        with:
+          ref: research/priority-domain-verification-01
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install validation libraries
+        run: python -m pip install requests pypdf
+      - name: Retrieve exact PMC publisher PDFs and check licence and credit text
+        run: |
+          ARGS=""
+          ALLOW_NONCOMMERCIAL="${{ github.event_name == 'push' && 'yes' || inputs.allow_noncommercial }}"
+          if [ "$ALLOW_NONCOMMERCIAL" = "yes" ]; then ARGS="--allow-noncommercial"; fi
+          python scripts/import_open_access_pdfs.py $ARGS
+      - name: Commit PDFs and manifest
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sources/open-access/
+          if git diff --cached --quiet; then
+            echo "No newly approved PDFs to commit."
+          else
+            git commit -m "Add rights-cleared open-access guideline PDFs"
+            git push origin HEAD:research/priority-domain-verification-01
+          fi

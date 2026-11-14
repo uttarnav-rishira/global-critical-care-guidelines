@@ -65,3 +65,27 @@ Use one primary domain and semicolon-separated subdomains:
 - `other`
 
 Use Australian/British spelling in repository-authored metadata (e.g. `haemodynamics`), while preserving exact source titles.
+
+
+## Stored full-text PDF manifest
+
+The main catalogue does not store PDF binaries or detailed file-rights metadata. For every PDF stored under `sources/open-access/`, use `sources/open-access/manifest.csv`. Its columns are:
+
+| Column | Meaning |
+|---|---|
+| `guideline_id` | Stable catalogue identifier |
+| `pdf_path` | Repository-relative path to the committed PDF |
+| `doi` | DOI of the exact stored edition |
+| `issuing_organisations` | Exact issuing organisation names |
+| `publication_year` | Year of the stored edition |
+| `version_edition` | Version, edition, update, or document designation |
+| `original_source_url` | URL from which the document was obtained |
+| `access_date` | Date accessed/downloaded, ISO `YYYY-MM-DD` |
+| `licence_name_version` | Exact licence and version, or explicit permission description |
+| `licence_url` | Canonical licence URL, where available |
+| `attribution_copyright_notice` | Required attribution and copyright statement |
+| `redistribution_basis` | Why redistribution in this public repository is permitted |
+| `rights_evidence_url` | URL to licence/permission evidence |
+| `notes` | Conditions, restrictions, or provenance notes |
+
+A blank or unclear licence is not permission to redistribute. The manifest must not list a PDF until the file exists in the repository and its rights have been checked.

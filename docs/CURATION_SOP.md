@@ -72,3 +72,27 @@ If PubMed, Europe PMC, Crossref, or other APIs are used:
 - respect publisher and repository licences;
 - do not bulk-download PMC content except through permitted NCBI services;
 - do not mirror full text unless the licence allows it.
+
+
+## 12. Managing locally stored full-text PDFs
+
+The main catalogue remains a lightweight index. Full-text files may be stored only under `sources/open-access/`, and only when the project has verified that the applicable licence or explicit permission permits redistribution in this public repository.
+
+For every stored PDF, create one row in `sources/open-access/manifest.csv` recording:
+- repository-relative PDF path and stable guideline ID;
+- DOI;
+- issuing organisation(s);
+- publication year;
+- version/edition;
+- original source URL;
+- date the file was accessed/downloaded (ISO `YYYY-MM-DD`);
+- exact licence name and version, plus licence URL where available;
+- attribution/copyright notice and any relevant conditions.
+
+Also retain a copy of the licence/permission evidence or a durable link to it where practicable. Verify the file is the complete document and matches the recorded edition. Do not assume that free-to-read, repository-hosted, or author-accepted-manuscript status grants redistribution rights.
+
+Do not put paywalled, subscription-only, access-restricted, licence-unclear, or copyright-restricted PDFs in this folder. For these, record the official landing/full-text URL and access/rights status in the screening record or source notes; do not upload a copy. If permission is later obtained, record who granted it, its scope, date, and evidence before adding the file.
+
+Use descriptive, stable filenames, for example `GCCG-000123_2025_issuing-body_short-title.pdf`. Avoid personal data and avoid renaming a publisher PDF in a way that obscures its provenance.
+
+The manifest is the authoritative inventory for files in `sources/open-access/`. Do not add a PDF without its completed manifest row. Do not add a manifest row until the PDF is actually present and its redistribution permission has been checked.

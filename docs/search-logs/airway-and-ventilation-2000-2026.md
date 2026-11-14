@@ -63,3 +63,11 @@ Candidate rows for this domain are maintained in `data/screening/airway-and-vent
 
 This is an initial domain search protocol, not an exhaustive search or completed systematic review. Exact result counts, exports, screening counts, full-text exclusions and a country-by-country gap audit remain outstanding. Search the entire 2000–2026 historical period, not only the current guideline. Preserve each substantive edition and verify historical status using the issuing body.
 
+## First-pass source checks — 2026-11-03
+
+Primary-source bibliographic checks added to the candidate register:
+- Difficult Airway Society adult difficult-intubation guideline (2015): DOI 10.1093/bja/aev371; PMID 26556848; PMC full text PMC4650961. The article states a CC BY-NC licence, with a separate rights notice for Figure 1. **Eligibility remains conditional** on direct critical-care relevance and licence review.
+- AARC artificial-airway suctioning guideline (2022): DOI 10.4187/respcare.09548; PMID 35078900. Full text, adult scope and licence still require inspection.
+- ASA multisociety difficult-airway practice guideline (2022): DOI 10.1097/ALN.0000000000004002; PMID 34762729. Mixed adult/paediatric document; adult recommendation separability, ICU relevance and licence need review.
+
+No airway record is ready for master-catalogue promotion. The PubMed query and official society archives still require execution with recorded counts and export sets.

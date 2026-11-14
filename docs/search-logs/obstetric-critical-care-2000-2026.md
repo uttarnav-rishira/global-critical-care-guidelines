@@ -48,3 +48,10 @@ For each source, record date searched, exact query/filter, result count, export/
 
 ## Completeness statement
 **Preliminary discovery only.** Exact result counts, deduplication and screening numbers, full-text eligibility and independent review remain outstanding.
+
+## First-pass source checks — 2026-11-03
+
+- SMFM Consult Series #67: Maternal Sepsis (2023): DOI 10.1016/j.ajog.2023.05.019; PMID 37236495. The official SMFM page states it was reaffirmed in 2025, replaces Consult Series #47, and is endorsed by ACOG. It provides explicit recommendations for maternal sepsis and septic shock, including vasopressor, fluid and antimicrobial management.
+- Pregnancy is not itself an adult age criterion; retain only where the patient population meets the database's 18+ rule or adult recommendations are explicitly separable. This document is a strong critical-care candidate because it includes septic shock recommendations.
+
+Cross-link maternal sepsis to the sepsis topic, but keep one canonical obstetric-domain record.
